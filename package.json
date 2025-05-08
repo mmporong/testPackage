@@ -17,7 +17,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dannect/SimGround_Package.git",
+    "url": "https://github.com/mmporong/testPackage",
     "revision": "main",
     "_upm": {
       "changelog": "Fixed issue."
