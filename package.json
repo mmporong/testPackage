@@ -16,8 +16,6 @@
     "name": "Dannect",
     "email": "ljy1209@dannect.com"
   },
-  "unity": "2019.4",
-  "unityRelease": "25f1",
   "dependencies": {},
   "repository": {
     "type": "git",
