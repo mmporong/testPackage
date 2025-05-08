@@ -1,7 +1,7 @@
 {
   "name": "com.unity.quizmodulepackage",
   "displayName": "QuizModule Package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for handling quiz modules in Unity.",
   "keywords": [
     "addressable",
@@ -21,14 +21,5 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmporong/testPackage.git",
-    "revision": "main",
-    "_upm": {
-      "changelog": "Fixed issue."
-    },
-    "upmCi": {
-      "footprint": "e66c22623e26c3c815a3939eed5ccccd523380d3"
-    },
-    "_fingerprint": "101dcb4353ce8bea5b4404d0ca31ce5a00ca751c"
-  }
+    "url": "https://github.com/mmporong/testPackage.git"
 }
