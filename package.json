@@ -2,7 +2,7 @@
   "name": "com.unity.quizmodulepackage",
   "displayName": "QuizModule Package",
   "version": "1.0.1",
-  "description": "QuizModule Package with Addressable",
+  "description": "A package for handling quiz modules in Unity.",
   "keywords": [
     "addressable",
     "asset",
@@ -12,6 +12,10 @@
     "content",
     "quiz"
   ],
+  "author": {
+    "name": "Dannect",
+    "email": "ljy1209@dannect.com"
+  },
   "unity": "2019.4",
   "unityRelease": "25f1",
   "dependencies": {},
