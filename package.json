@@ -17,7 +17,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmporong/testPackage",
+    "url": "https://github.com/mmporong/testPackage.git",
     "revision": "main",
     "_upm": {
       "changelog": "Fixed issue."
